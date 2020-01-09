@@ -75,6 +75,11 @@ PRODUCT_PACKAGES += \
     camera.msm8084 \
     libmm-qcamera
 
+# LineageActions
+PRODUCT_PACKAGES += \
+    LineageActions \
+    libjni_LineageActions
+
 # Characteristics
 PRODUCT_CHARACTERISTICS := nosdcard
 
